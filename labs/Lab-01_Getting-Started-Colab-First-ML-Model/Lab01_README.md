@@ -50,16 +50,6 @@ Students must submit:
 - Answers to the tasks in markdown cells
 
 ---
-
-## 🎤 Viva Questions (Short)
-1. What is a dataset?
-2. What are features and labels?
-3. Why do we split data into train/test?
-4. What does accuracy mean?
-5. What does the confusion matrix show?
-
----
-
 ## ⚠️ Academic Integrity
 - Discussion is allowed  
 - Copying complete solutions is not allowed  
