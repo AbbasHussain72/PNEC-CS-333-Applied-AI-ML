@@ -26,9 +26,9 @@ By the end of this lab, students will be able to:
 ## ▶️ Open in Google Colab
 Click below to open the lab in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ABBASHUSSAIN72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-01_Getting-Started-Colab-First-ML-Model/Lab01_Getting_Started_Student.ipynb
-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-01_Getting-Started-Colab-First-ML-Model/Lab01_Getting_Started_Student.ipynb)
+
 
 ---
 
