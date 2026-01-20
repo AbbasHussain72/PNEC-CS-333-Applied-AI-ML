@@ -3,11 +3,11 @@
 **Course:** CS-333 Applied AI & Machine Learning  
 **Instructor:** Dr. Abbas Hussain  
 **Lab Duration:** 3 Hours  
-**Platform:** Google Colab (Recommended)
+**Platform:** Google Colab 
 
 ---
 
-## 🎯 Lab Objectives
+## Lab Objectives
 By the end of this lab, students will be able to:
 - Use Google Colab (run cells, restart runtime, save and share notebooks)
 - Understand the difference between **code cells** and **markdown cells**
@@ -18,8 +18,8 @@ By the end of this lab, students will be able to:
 
 ---
 
-## 📌 Lab Files
-- `Lab01_Getting_Started_Student.ipynb` ✅ *(Student Version)*
+## Lab Files
+- `Lab01_Getting_Started.ipynb` 
 
 ---
 
@@ -38,7 +38,7 @@ https://colab.research.google.com/github/ABBASHUSSAIN72/PNEC-CS-333-Applied-AI-M
 3. Rename your notebook as:  
    `Lab01_RollNo_Name.ipynb`
 4. Complete all TODO tasks
-5. Submit the notebook link / file as instructed by the instructor
+5. Submit the notebook link 
 
 ---
 
