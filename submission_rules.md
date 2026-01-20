@@ -4,7 +4,7 @@
 Submit one of the following:
 - **Google Colab link** (Viewer access enabled)
 - `.ipynb` notebook file
-- PDF export of notebook (optional)
+
 
 ## 2) File Naming
 Use this format:
@@ -13,7 +13,7 @@ Use this format:
 ## 3) What Must Be Included
 - Outputs of all required cells
 - Task answers (in markdown)
-- Plots/screenshots if required
+- Plots
 
 ## 4) Late Submission
 Follow the instructor’s policy.
