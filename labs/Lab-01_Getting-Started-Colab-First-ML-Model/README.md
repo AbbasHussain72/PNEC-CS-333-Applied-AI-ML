@@ -29,7 +29,7 @@ Click below to open the lab in Colab:
 > **Instructor Note:** After uploading to GitHub, replace `YOUR_USERNAME` and `YOUR_REPO` in the link.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/labs/Lab-01_Getting-Started-Colab-First-ML-Model/Lab01_Getting_Started_Student.ipynb
+https://colab.research.google.com/github/ABBASHUSSAIN72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-01_Getting-Started-Colab-First-ML-Model/Lab01_Getting_Started_Student.ipynb
 )
 
 ---
