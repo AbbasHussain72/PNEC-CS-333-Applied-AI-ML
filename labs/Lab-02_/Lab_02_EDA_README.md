@@ -213,5 +213,5 @@ Students must submit:
 (https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02/Lab02_DEMO_EDA.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02_/Lab02_DEMO_EDA.ipynb
+https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02_/LAB02_DEMO_EDA.ipynb
 )
