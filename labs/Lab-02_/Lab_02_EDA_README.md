@@ -207,11 +207,13 @@ Students must submit:
 ---
 
 # LINK
-1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02/Lab_02_EDA.ipynb)
-2)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02/Lab02_DEMO_EDA.ipynb)
 
+1) DEMO FILE
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02_/LAB02_DEMO_EDA.ipynb
+)
+
+2) TASK FILE
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/AbbasHussain72/PNEC-CS-333-Applied-AI-ML/blob/main/labs/Lab-02_/Lab_02_EDA.ipynb
 )
