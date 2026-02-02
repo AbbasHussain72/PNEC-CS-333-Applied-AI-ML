@@ -8,9 +8,8 @@
 
 The aim of this lab is to perform **Exploratory Data Analysis (EDA)** on a real-world milling dataset containing machining parameters, tool wear measurements, and multi-sensor signals.
 
-Students will:
-
-- Perform systematic data cleaning
+Students will Perform
+- Systematic data cleaning
 - Handle missing values and duplicates
 - Conduct statistical analysis
 - Analyze distribution characteristics
@@ -73,7 +72,7 @@ After completing this lab, students will be able to:
 # 🔹 Task 1: Load the Dataset
 
 ### Steps:
-- Import necessary libraries (pandas, numpy, matplotlib, seaborn)
+- Import necessary libraries
 - Load the dataset
 - Display the first and last 5 rows
 - Check data types
@@ -169,12 +168,10 @@ Create:
 - Boxplot (Sensor Comparison)
 - Scatter Plot (Tool Wear vs Vibration)
 - Correlation Heatmap
-- Pairplot (Optional – Advanced)
 
 Visualizations must support engineering conclusions.
 
 ---
-
 # 🧠 5. Engineering Thinking Questions
 
 Answer in Markdown:
@@ -187,35 +184,27 @@ Answer in Markdown:
 
 ---
 
+🤖 Ethical Use of Vibe Coding (AI Assistance)
+
+Students are allowed to use AI tools (e.g., ChatGPT or other coding assistants) for support in writing code, understanding syntax, or debugging.
+
+However:
+- AI assistance must be used ethically.
+- Students must understand every line of code they submit.
+- Students must be able to explain their analysis, plots, and conclusions.
+- Blind copy–paste without understanding is strictly discouraged.
+
+The goal of this lab is conceptual understanding of EDA, not just generating code output. If you cannot explain your solution, it will not be considered complete.
+
+---
+
 # 📦 Submission Requirements
 
 Students must submit:
 
-- Completed Jupyter/Colab notebook
+- Completed Jupyter/Colab notebook with Name, Roll Number, and Section mentioned in Markdown cell
 - All required plots
 - Clear Markdown explanations
-- Cleaned dataset (if modified)
 
 ---
 
-# 🚀 Why EDA is Important
-
-Exploratory Data Analysis is the foundation of any AI/ML pipeline. Without proper EDA:
-
-- Models may learn incorrect patterns
-- Noise and outliers may distort results
-- Wrong assumptions may lead to poor predictions
-
-EDA ensures clean and reliable data, better feature selection, improved model performance, and engineering insight before automation.
-
----
-
-# 🏁 Expected Outcome
-
-By the end of this lab, students should:
-
-✔ Understand industrial sensor data  
-✔ Perform structured EDA  
-✔ Detect anomalies  
-✔ Interpret statistical measures  
-✔ Prepare data for Machine Learning  
