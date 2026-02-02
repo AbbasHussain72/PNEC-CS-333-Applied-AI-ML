@@ -88,7 +88,7 @@ Ensure dataset quality before analysis.
 
 1. **Check Missing Values**
    - Identify missing values
-   - Fill missing values using an appropriate method discussed in class
+   - Fill missing values using an appropriate method discussed in this article "https://medium.com/@pingsubhak/handling-missing-values-in-dataset-7-methods-that-you-need-to-know-5067d4e32b62"
 
 2. **Check Duplicate Records**
    - Identify duplicate rows
