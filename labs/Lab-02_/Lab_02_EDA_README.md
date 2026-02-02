@@ -184,7 +184,7 @@ Answer in Markdown:
 
 ---
 
-🤖 Ethical Use of Vibe Coding (AI Assistance)
+# 🤖 Ethical Use of Vibe Coding (AI Assistance)
 
 Students are allowed to use AI tools (e.g., ChatGPT or other coding assistants) for support in writing code, understanding syntax, or debugging.
 
