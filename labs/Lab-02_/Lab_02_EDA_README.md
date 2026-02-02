@@ -124,9 +124,7 @@ Answer in Markdown:
 
 ## 3️⃣ Shape (Distribution Pattern)
 - Histogram  
-- KDE Plot  
-- Skewness  
-- Kurtosis  
+- KDE Plot   
 
 Answer in Markdown:
 - Is the distribution symmetric?
