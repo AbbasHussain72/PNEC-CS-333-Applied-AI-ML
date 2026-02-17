@@ -24,8 +24,10 @@
 
 ## 🎯 Assignment Objective
 
-Apply the complete Machine Learning pipeline to predict the Performance Index and compare multiple regression models.
+Apply the complete Machine Learning pipeline to predict the Performance Index and compare multiple regression models. 
 
+## 🧠 REMEMBER
+ALL TASK SHOULD BE UNDER DIFFERENT CODE CELL
 ---
 
 ## 🧠 Tasks
@@ -57,15 +59,15 @@ X = Features
 y = Performance Index
 
 ### 7. Train-Test Split
-80% Train  
-20% Test
+70% Train  
+30% Test
 
-### 8. Scaling
+### 8. Scaling (IF NEEDED)  (CHECK THE MODEL REQUIRMENT)
 Apply StandardScaler
 
 ---
 
-## 🤖 Models to Apply
+## 🤖 Models to Apply    (CLO2-PLO3)
 
 - Linear Regression (LR)
 - Support Vector Regression (SVR)
@@ -93,17 +95,13 @@ Apply StandardScaler
 
 ## 📁 Submission
 
-Submit GitHub repo containing:
-
-- Notebook
-- Dataset
-- README
+Submit to GitHub Classroom.
 
 ---
 
 ## 📅 Deadline
 
-ADD DATE
+Monday 2nd March 11:59 PM
 
 ---
 
