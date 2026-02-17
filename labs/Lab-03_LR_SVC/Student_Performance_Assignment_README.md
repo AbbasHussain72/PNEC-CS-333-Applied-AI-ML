@@ -1,4 +1,4 @@
-# 🎓 Machine Learning Assignment: Predict Student Performance Index
+# 🎓 Assignment: Predict Student Performance Index
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/Student_Performance_Assignment.ipynb)
