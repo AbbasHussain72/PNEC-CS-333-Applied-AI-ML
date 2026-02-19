@@ -70,7 +70,7 @@ Apply StandardScaler
 - Support Vector Regression (SVR)
 - Random Forest Regression (RF)
 - KNN Regression
-- Naive Bayes Regression
+- Desicion Tree
 
 ---
 
@@ -82,9 +82,18 @@ Apply StandardScaler
 
 ---
 
+## 📊 Compare Models
+
+- R² Score
+- RMSE
+- MAE
+- Training Time
+- Testing Time
+
+---
+
 ## 🏆 Final Task
 
-- Compare models
 - Select best model
 - Visualize best model
 
@@ -98,7 +107,7 @@ Submit to GitHub Classroom.
 
 ## 📅 Deadline
 
-Monday 2nd March 11:59 PM
+Monday 8th March 11:59 PM
 
 ---
 
