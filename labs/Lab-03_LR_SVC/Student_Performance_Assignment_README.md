@@ -102,12 +102,13 @@ Apply StandardScaler
 ## 📁 Submission
 
 Submit to GitHub Classroom.
+https://classroom.github.com/a/07-CpJmh
 
 ---
 
 ## 📅 Deadline
 
-Monday 8th March 11:59 PM
+Sunday 8th March 11:59 PM
 
 ---
 
